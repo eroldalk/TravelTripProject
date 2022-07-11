@@ -14,6 +14,8 @@ namespace TravelTripProject.Models.Siniflar
         public string Mail { get; set; }
         public string Yorum { get; set; }
         public int BLOGID { get; set; }
+        public Blog BLOG { get; set; }
+
 
     }
 }
