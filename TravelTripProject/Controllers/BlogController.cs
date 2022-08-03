@@ -18,7 +18,7 @@ namespace TravelTripProject.Controllers
            by.Deger1 = c.Blogs.ToList();
            by.Deger3 = c.Blogs.Take(3).ToList();
            by.Deger4 = c.Yorumlars.Take(3).ToList();
-           return View(by);
+            return View(by);
         }
         
 
