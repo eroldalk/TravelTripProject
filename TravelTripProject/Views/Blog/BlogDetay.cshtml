@@ -40,57 +40,35 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         <div class="container">
             <div class="col-md-8 single-main">
                 <div class="single-grid">
-                    @foreach (var x in Model.Deger1) 
-                    { 
-                    
+                    @foreach (var x in Model.Deger1)
+                    {
+
                         <img src="@x.BlogImage" alt="" style="margin-bottom:20px" />
                         <h2>@x.Baslik</h2>
                         <p>
-                           @x.Aciklama
+                            @x.Aciklama
                         </p>
                     }
                 </div>
-                @foreach(var y in Model.Deger2) 
-                { 
-                        <ul class="comment-list">
+                @foreach (var y in Model.Deger2)
+                {
+                    <ul class="comment-list">
 
-                            <li>
-                                <img src="~/web2/images/avatar.png" class="img-responsive" alt="">
-                                <div class="desc">
-                                    <p>@y.KullaniciAdi: @y.Yorum. </p>
-                                </div>
-                                <div class="clearfix"></div>
-                            </li>
+                        <li>
+                            <img src="~/web2/images/avatar.png" class="img-responsive" alt="">
+                            <div class="desc">
+                                <p>@y.KullaniciAdi: @y.Yorum. </p>
+                            </div>
+                            <div class="clearfix"></div>
+                        </li>
 
 
-                        </ul>
-                }
-
-                <div class="content-form">
-                    <h3>Bir yorum Yapın</h3>
-                    <form>
-                        <input type="text" placeholder="Kullanıcı Adı" required />
-                        <input type="text" placeholder="Mail Adresi" required />
-                        <textarea placeholder="Yorum"></textarea>
-                        <input type="submit" value="Gönder" />
-                    </form>
-                </div>
-            </div>
-
-            <div class="col-md-4 side-content">
-                <div class="recent">
-                    <h3>Son Bloglar</h3>
-                    <ul>
-                        <li>erol dalkılıç yapılacak .</li>
                     </ul>
-                </div>
-                <div class="comments">
-                    <h3>Son Yorumlar</h3>
-                   <ul>
-                       <li>ajfasfas</li>
-                   </ul>
-                </div>
+                }
+                @Html.Action("YorumYap","Blog")
             </div>
+
+
             <div class="clearfix"></div>
         </div>
     </div>
