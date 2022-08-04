@@ -47,13 +47,14 @@
                 <div class="col-md-8 single-main">
                     @foreach (var x in Model.Deger1) 
                     {
-                        <div class="single-grid">
-                            <img src="@x.BlogImage" alt="" style="margin-bottom:30px" />
-                            <a href="/Blog/BlogDetay/@x.ID">@x.Baslik</a>
-                            <p>
-                               @x.Aciklama
-                            </p>
-                        </div>
+                    <div class="single-grid">
+                        <img src="@x.BlogImage" alt="" style="margin-bottom:30px" />
+                        <a href="/Blog/BlogDetay/@x.ID">@x.Baslik</a>
+                        <p>  @x.Aciklama.Substring(0, 200);   </p>
+                       
+                        <p><a href="/Blog/BlogDetay/@x.ID" class="btn btn-warning btn-lg">Devamını Oku >></a></p>
+
+                    </div>
                         <br />
                         <br />
                     }
