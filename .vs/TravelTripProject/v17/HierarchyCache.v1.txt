@@ -1,0 +1,404 @@
+﻿++Solution 'TravelTripProject' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:TravelTripProject.sln
+++TravelTripProject
+i:{00000000-0000-0000-0000-000000000000}:TravelTripProject
+++Properties
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\properties\
+++References
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++App_Data
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\app_data\
+++App_Start
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\app_start\
+++Content
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\content\
+++Controllers
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\controllers\
+++AboutController.cs
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\controllers\aboutcontroller.cs
+++AdminController.cs
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\controllers\admincontroller.cs
+++BlogController.cs
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\controllers\blogcontroller.cs
+++DefaultController.cs
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\controllers\defaultcontroller.cs
+++HomeController.cs
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\controllers\homecontroller.cs
+++LoginController.cs
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\controllers\logincontroller.cs
+++fonts
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\fonts\
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\weblogin\fonts\
+++Migrations
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\migrations\
+++Models
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\models\
+++Siniflar
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\models\siniflar\
+++Admin.cs
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\models\siniflar\admin.cs
+++AdresBlog.cs
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\models\siniflar\adresblog.cs
+++AnaSayfa.cs
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\models\siniflar\anasayfa.cs
+++Blog.cs
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\models\siniflar\blog.cs
+++BlogYorum.cs
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\models\siniflar\blogyorum.cs
+++Context.cs
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\models\siniflar\context.cs
+++Hakkimizda.cs
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\models\siniflar\hakkimizda.cs
+++iletisim.cs
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\models\siniflar\iletisim.cs
+++Yorumlar.cs
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\models\siniflar\yorumlar.cs
+++Scripts
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\scripts\
+++Views
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\
+++About
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\about\
+++Index.cshtml
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\about\index.cshtml
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\admin\index.cshtml
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\blog\index.cshtml
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\default\index.cshtml
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\home\index.cshtml
+++Admin
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\admin\
+++BlogGetir.cshtml
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\admin\bloggetir.cshtml
+++YeniBlog.cshtml
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\admin\yeniblog.cshtml
+++YorumGetir.cshtml
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\admin\yorumgetir.cshtml
+++YorumListesi.cshtml
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\admin\yorumlistesi.cshtml
+++Blog
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\blog\
+++BlogDetay.cshtml
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\blog\blogdetay.cshtml
+++YorumYap.cshtml
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\blog\yorumyap.cshtml
+++Default
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\default\
+++About.cshtml
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\default\about.cshtml
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\home\about.cshtml
+++Partial1.cshtml
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\default\partial1.cshtml
+++Partial2.cshtml
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\default\partial2.cshtml
+++Partial3.cshtml
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\default\partial3.cshtml
+++Partial4.cshtml
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\default\partial4.cshtml
+++Partial5.cshtml
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\default\partial5.cshtml
+++Home
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\home\
+++Contact.cshtml
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\home\contact.cshtml
+++Login
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\login\
+++Login.cshtml
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\login\login.cshtml
+++Shared
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\shared\
+++_AdminLayout.cshtml
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\shared\_adminlayout.cshtml
+++_Layout.cshtml
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\shared\_layout.cshtml
+++_TestLayout.cshtml
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\shared\_testlayout.cshtml
+++Error.cshtml
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\shared\error.cshtml
+++_ViewStart.cshtml
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\_viewstart.cshtml
+++Web.config
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\views\web.config
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web.config
+++web
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\
+++css
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\css\
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web2\css\
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\weblogin\css\
+++images
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web2\images\
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\weblogin\images\
+++js
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\js\
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web2\js\
+++about.html
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\about.html
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web2\about.html
+++contact.html
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\contact.html
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web2\contact.html
+++destinations.html
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\destinations.html
+++index.html
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\index.html
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web2\index.html
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\weblogin\index.html
+++w3layouts-License.txt
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\w3layouts-license.txt
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web2\w3layouts-license.txt
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\weblogin\w3layouts-license.txt
+++web2
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web2\
+++single.html
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web2\single.html
+++weblogin
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\weblogin\
+++favicon.ico
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\favicon.ico
+++Global.asax
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\global.asax
+++packages.config
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\packages.config
+++AssemblyInfo.cs
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\properties\assemblyinfo.cs
+++Antlr3.Runtime
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++EntityFramework
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++EntityFramework.SqlServer
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++Microsoft.CSharp
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++Microsoft.Web.Infrastructure
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++Newtonsoft.Json
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++System
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++System.ComponentModel.DataAnnotations
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++System.Configuration
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++System.Core
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++System.Data
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++System.Data.DataSetExtensions
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++System.Drawing
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++System.EnterpriseServices
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++System.Net.Http
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++System.Net.Http.WebRequest
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++System.Web
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++System.Web.Abstractions
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++System.Web.ApplicationServices
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++System.Web.DynamicData
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++System.Web.Entity
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++System.Web.Extensions
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++System.Web.Helpers
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++System.Web.Mvc
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++System.Web.Optimization
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++System.Web.Razor
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++System.Web.Routing
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++System.Web.Services
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++System.Web.WebPages
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++System.Web.WebPages.Deployment
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++System.Web.WebPages.Razor
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++System.Xml
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++System.Xml.Linq
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++WebGrease
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:
+++BundleConfig.cs
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\app_start\filterconfig.cs
+++RouteConfig.cs
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\app_start\routeconfig.cs
+++bootstrap-theme.css
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\content\bootstrap.css
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web2\css\bootstrap.css
+++bootstrap.css.map
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\content\bootstrap.css.map
+++bootstrap.min.css
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\content\bootstrap.min.css.map
+++Site.css
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\content\site.css
+++glyphicons-halflings-regular.eot
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\fonts\glyphicons-halflings-regular.woff2
+++Configuration.cs
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\migrations\configuration.cs
+++bootstrap.js
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\scripts\bootstrap.js
+++bootstrap.min.js
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\scripts\jquery-3.4.1.slim.min.map
+++jquery.validate-vsdoc.js
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\scripts\jquery.validate-vsdoc.js
+++jquery.validate.js
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\scripts\jquery.validate.js
+++jquery.validate.min.js
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\scripts\jquery.validate.min.js
+++jquery.validate.unobtrusive.js
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\scripts\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\scripts\jquery.validate.unobtrusive.min.js
+++modernizr-2.8.3.js
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\scripts\modernizr-2.8.3.js
+++slider.css
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\css\slider.css
+++style.css
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\css\style.css
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web2\css\style.css
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\weblogin\css\style.css
+++about_banner.jpg
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\about_banner.jpg
+++arrows.png
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\arrows.png
+++but.png
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\but.png
+++contact.png
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\contact.png
+++dest_banner.jpg
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\dest_banner.jpg
+++flight.png
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\flight.png
+++glass.png
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\glass.png
+++group.png
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\group.png
+++head_bg.jpg
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\head_bg.jpg
+++head_bot.gif
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\head_bot.gif
+++img1.jpg
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\img1.jpg
+++img2.jpg
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\img2.jpg
+++img3.jpg
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\img3.jpg
+++img4.jpg
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\img4.jpg
+++key.png
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\key.png
+++link1-bg.gif
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\link1-bg.gif
+++logo.png
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\logo.png
+++pic.jpg
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\pic.jpg
+++pic1.jpg
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\pic1.jpg
+++pic10.jpg
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\pic10.jpg
+++pic2.jpg
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\pic2.jpg
+++pic3.jpg
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\pic3.jpg
+++pic4.jpg
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\pic4.jpg
+++pic5.jpg
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\pic5.jpg
+++pic6.jpg
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\pic6.jpg
+++pic7.jpg
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\pic7.jpg
+++pic8.jpg
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\pic8.jpg
+++pic9.jpg
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\images\pic9.jpg
+++jquery.min.js
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\js\jquery.min.js
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web2\js\jquery.min.js
+++responsiveslides.min.js
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web\js\responsiveslides.min.js
+++avatar.png
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web2\images\avatar.png
+++food.jpg
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web2\images\food.jpg
+++icon3.png
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web2\images\icon3.png
+++logo.jpg
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web2\images\logo.jpg
+++man.jpg
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web2\images\man.jpg
+++more.png
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web2\images\more.png
+++post1.jpg
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web2\images\post1.jpg
+++post2.jpg
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web2\images\post2.jpg
+++post3.jpg
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web2\images\post3.jpg
+++search.png
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web2\images\search.png
+++easing.js
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web2\js\easing.js
+++move-top.js
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web2\js\move-top.js
+++Global.asax.cs
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\global.asax.cs
+++Web.Debug.config
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web.debug.config
+++Web.Release.config
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\web.release.config
+++Asap-Regular.ttf
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\weblogin\fonts\asap-regular.ttf
+++Audiowide-Regular.ttf
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\weblogin\fonts\audiowide-regular.ttf
+++b4.jpg
+i:{2809ad34-2098-4ae6-87ea-80e41fde99f2}:c:\users\lenovo\desktop\desktop repo\traveltripproject\traveltripproject\weblogin\images\b4.jpg

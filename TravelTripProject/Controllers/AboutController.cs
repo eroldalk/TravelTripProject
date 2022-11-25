@@ -18,4 +18,5 @@ namespace TravelTripProject.Controllers
             return View(degerler);
         }
     }
+
 }

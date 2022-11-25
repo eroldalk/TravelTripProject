@@ -1,17 +1,105 @@
-﻿@{
-    ViewBag.Title = "Contact";
+﻿@*@{
+        ViewBag.Title = "Contact";
+    }
+    <h2>@ViewBag.Title.</h2>
+    <h3>@ViewBag.Message</h3>
+
+    <address>
+        One Microsoft Way<br />
+        Redmond, WA 98052-6399<br />
+        <abbr title="Phone">P:</abbr>
+        425.555.0100
+    </address>
+
+    <address>
+        <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
+        <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
+    </address>*@
+
+
+@using TravelTripProject.Models.Siniflar
+@model List<iletisim>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_TestLayout.cshtml";
 }
-<h2>@ViewBag.Title.</h2>
-<h3>@ViewBag.Message</h3>
 
-<address>
-    One Microsoft Way<br />
-    Redmond, WA 98052-6399<br />
-    <abbr title="Phone">P:</abbr>
-    425.555.0100
-</address>
 
-<address>
-    <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
-    <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
-</address>
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>iletişim</title>
+    <link href="~/web2/css/bootstrap.css" rel='stylesheet' type='text/css' />
+    <link href="~/web2/css/style.css" rel='stylesheet' type='text/css' />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="Personal Blog Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template,
+	Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <!----webfonts---->
+    <link href='http://fonts.googleapis.com/css?family=Oswald:100,400,300,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,300italic' rel='stylesheet' type='text/css'>
+    <!----//webfonts---->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <!--end slider -->
+    <!--script-->
+    <script type="text/javascript" src="~/web2/js/move-top.js"></script>
+    <script type="text/javascript" src="~/web2/js/easing.js"></script>
+    <!--/script-->
+    <script type="text/javascript">
+			jQuery(document).ready(function($) {
+				$(".scroll").click(function(event){
+					event.preventDefault();
+					$('html,body').animate({scrollTop:$(this.hash).offset().top},900);
+				});
+			});
+    </script>
+    <!---->
+
+</head>
+<body>
+    <!---header---->
+    
+    <!--/header-->
+    <div class="contact-content">
+        <div class="container">
+            <div class="contact-info">
+                <h2>İletişim</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Contrary to popular belief.</p>
+            </div>
+            <div class="contact-details">
+                <form>
+                    <input type="text" placeholder="AD" required />
+                    <input type="text" placeholder="GMAİL" required />
+                    <input type="text" placeholder="TELEFON" required />
+                    <input type="text" placeholder="ŞEHİR" required />
+                    <textarea placeholder="MESAJ"></textarea>
+                    <input type="submit" value="GÖNDER" />
+                </form>
+            </div>
+            <div class="contact-details">
+                <div class="col-md-6 contact-map">
+                    <h4>Bizi Burda Bulabilirsiniz</h4>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12614.608439375696!2d29.05357426440296!3d37.77475468873941!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14c73f7bf741b0df%3A0xf34703277eaf7808!2sMerkez%20Efendi%2C%2020010%20Merkezefendi%2FDenizli!5e0!3m2!1str!2str!4v1669378558354!5m2!1str!2str" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+                <div class="col-md-6 company_address">
+                    <h4>ADRESLERİMİZ</h4>
+                    <p>500 Lorem Ipsum Dolor Sit,</p>
+                    <p>22-56-2-9 Sit Amet, Lorem,</p>
+                    <p>TÜRKİYE</p>
+                    <p>Phone:(00) 222 666 444</p>
+                    <p>Fax: (000) 123 456 78 0</p>
+                    <p>Email: <a href="mailto:info@example.com">info@mycompany.com</a></p>
+                    <p>Follow on: <a href="#">Facebook</a>, <a href="#">Twitter</a></p>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+
+
+        </div>
+    </div>
+    </div>
+    
+
+
+
